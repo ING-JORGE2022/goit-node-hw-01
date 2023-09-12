@@ -1,10 +1,11 @@
 # goit-node-hw-01
 <b>view List Contacts</b>
-<img src="https://i.postimg.cc/g0fj77Mj/see-list-contacts.png" alt="see-list-contacts"/><br/><br/>
+<br/>
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/yYNhRNvS/list.jpg' border='0' alt='list'/></a>
 
 
 <b>Filter Contact</b>
-
+<br/>
 <a href='https://postimages.org/' target='_blank'>
 <img src='https://i.postimg.cc/mk9SPpb2/buscar.jpg' border='0' alt='buscar'/></a>
 
@@ -13,8 +14,13 @@
 <img src='https://i.postimg.cc/pVK8nFfT/add.jpg' border='0' alt='add'/></a>
 
 <b>Remove Contact</b>
+<br/>
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/HL4Nvx59/eliminar.jpg' border='0' alt='eliminar'/></a>
 <br/><br/>
+<b> Errores </b>
+<br/>
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/02bsBpV5/error.jpg' border='0' alt='error'/></a>
+<br/>
 Comandos para ejecutar en el terminal:<br/><br/>
 <b>
 
